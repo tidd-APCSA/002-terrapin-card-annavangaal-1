@@ -10,6 +10,10 @@ public class TerrapinCard {
     return "The card has " + balance + " dollars";
   }
 
+  public double getBalance(){
+    return this.balance;
+  } 
+
   public void payEconomical(){
     if(balance >= 2.50){
       balance -= 2.50;

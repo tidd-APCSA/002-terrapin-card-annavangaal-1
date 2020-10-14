@@ -192,3 +192,13 @@ Billy: The card has 36.0 dollars
 Brian: The card has 23.5 dollars
 Billy: The card has 31.0 dollars
 Brian: The card has 73.5 dollars
+
+
+
+
+
+Add a getter method for the balance attribute titled getBalance(). This method should return the balance attribute
+
+
+
+
